@@ -1,7 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2TDSPM\\net\\GS1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\validators\\createusuariorequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\validators\\createusuariorequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\domain\\entitiy\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\domain\\entitiy\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\dto\\request\\createusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\dto\\request\\createusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\infrastructure\\context\\deuruimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\infrastructure\\context\\deuruimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\usecase\\usuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\usecase\\usuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\dto\\response\\createusuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\dto\\response\\createusuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\dto\\request\\updateusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\dto\\request\\updateusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\domain\\enums\\uf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\domain\\enums\\uf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\domain\\entitiy\\desastre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\domain\\entitiy\\desastre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\dto\\request\\createdesastrerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\dto\\request\\createdesastrerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\usecase\\desastreusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\usecase\\desastreusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\validators\\createdesastrerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\validators\\createdesastrerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\application\\dto\\response\\createdesastreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\application\\dto\\response\\createdesastreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\controller\\desastrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\controller\\desastrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\infrastructure\\mappings\\usuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\infrastructure\\mappings\\usuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\infrastructure\\mappings\\desastremapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\infrastructure\\mappings\\desastremapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\domain\\enums\\severidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\domain\\enums\\severidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\domain\\enums\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\domain\\enums\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspm\\advanced-business-development-with-.net\\gb1\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +106,300 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Program.cs",
+              "RelativeDocumentMoniker": "GB1\\Program.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Program.cs",
+              "RelativeToolTip": "GB1\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:13:59.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeuRuimContext.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Context\\DeuRuimContext.cs",
+              "RelativeDocumentMoniker": "GB1\\Infrastructure\\Context\\DeuRuimContext.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Context\\DeuRuimContext.cs",
+              "RelativeToolTip": "GB1\\Infrastructure\\Context\\DeuRuimContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:18:25.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "GB1\\Controller\\UsuarioController.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Controller\\UsuarioController.cs",
+              "RelativeToolTip": "GB1\\Controller\\UsuarioController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAnwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:33:09.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUsuarioRequestValidator.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\Validators\\CreateUsuarioRequestValidator.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\Validators\\CreateUsuarioRequestValidator.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\Validators\\CreateUsuarioRequestValidator.cs",
+              "RelativeToolTip": "GB1\\Application\\Validators\\CreateUsuarioRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:36:13.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Entitiy\\Usuario.cs",
+              "RelativeDocumentMoniker": "GB1\\Domain\\Entitiy\\Usuario.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Entitiy\\Usuario.cs",
+              "RelativeToolTip": "GB1\\Domain\\Entitiy\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:44:54.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUsuarioRequest.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\CreateUsuarioRequest.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Request\\CreateUsuarioRequest.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\CreateUsuarioRequest.cs",
+              "RelativeToolTip": "GB1\\Application\\DTO\\Request\\CreateUsuarioRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:09.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\appsettings.json",
+              "RelativeDocumentMoniker": "GB1\\appsettings.json",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\appsettings.json",
+              "RelativeToolTip": "GB1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T13:27:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUsuarioResponse.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Response\\CreateUsuarioResponse.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Response\\CreateUsuarioResponse.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Response\\CreateUsuarioResponse.cs",
+              "RelativeToolTip": "GB1\\Application\\DTO\\Response\\CreateUsuarioResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:50.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateUsuarioRequest.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\UpdateUsuarioRequest.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Request\\UpdateUsuarioRequest.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\UpdateUsuarioRequest.cs",
+              "RelativeToolTip": "GB1\\Application\\DTO\\Request\\UpdateUsuarioRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:16:02.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Uf.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Enums\\Uf.cs",
+              "RelativeDocumentMoniker": "GB1\\Domain\\Enums\\Uf.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Enums\\Uf.cs",
+              "RelativeToolTip": "GB1\\Domain\\Enums\\Uf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:48:04.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioUseCase.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\UseCase\\UsuarioUseCase.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\UseCase\\UsuarioUseCase.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\UseCase\\UsuarioUseCase.cs",
+              "RelativeToolTip": "GB1\\Application\\UseCase\\UsuarioUseCase.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:35:19.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateDesastreRequest.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\CreateDesastreRequest.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Request\\CreateDesastreRequest.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\CreateDesastreRequest.cs",
+              "RelativeToolTip": "GB1\\Application\\DTO\\Request\\CreateDesastreRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:27.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Desastre.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Entitiy\\Desastre.cs",
+              "RelativeDocumentMoniker": "GB1\\Domain\\Entitiy\\Desastre.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Entitiy\\Desastre.cs",
+              "RelativeToolTip": "GB1\\Domain\\Entitiy\\Desastre.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:45:03.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "GB1\\Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "GB1\\Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:30:05.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "GB1\\Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "GB1\\Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:29:55.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DesastreUseCase.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\UseCase\\DesastreUseCase.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\UseCase\\DesastreUseCase.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\UseCase\\DesastreUseCase.cs",
+              "RelativeToolTip": "GB1\\Application\\UseCase\\DesastreUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:35:32.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateDesastreRequestValidator.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\Validators\\CreateDesastreRequestValidator.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\Validators\\CreateDesastreRequestValidator.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\Validators\\CreateDesastreRequestValidator.cs",
+              "RelativeToolTip": "GB1\\Application\\Validators\\CreateDesastreRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:36:41.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateDesastreResponse.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Response\\CreateDesastreResponse.cs",
+              "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Response\\CreateDesastreResponse.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Response\\CreateDesastreResponse.cs",
+              "RelativeToolTip": "GB1\\Application\\DTO\\Response\\CreateDesastreResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:35:01.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DesastreController.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Controller\\DesastreController.cs",
+              "RelativeDocumentMoniker": "GB1\\Controller\\DesastreController.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Controller\\DesastreController.cs",
+              "RelativeToolTip": "GB1\\Controller\\DesastreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:33:27.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DesastreMapping.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Mappings\\DesastreMapping.cs",
+              "RelativeDocumentMoniker": "GB1\\Infrastructure\\Mappings\\DesastreMapping.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Mappings\\DesastreMapping.cs",
+              "RelativeToolTip": "GB1\\Infrastructure\\Mappings\\DesastreMapping.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:15:03.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioMapping.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Mappings\\UsuarioMapping.cs",
+              "RelativeDocumentMoniker": "GB1\\Infrastructure\\Mappings\\UsuarioMapping.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Mappings\\UsuarioMapping.cs",
+              "RelativeToolTip": "GB1\\Infrastructure\\Mappings\\UsuarioMapping.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:14:52.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Severidade.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Enums\\Severidade.cs",
+              "RelativeDocumentMoniker": "GB1\\Domain\\Enums\\Severidade.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Enums\\Severidade.cs",
+              "RelativeToolTip": "GB1\\Domain\\Enums\\Severidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:57:35.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Nivel.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Enums\\Nivel.cs",
+              "RelativeDocumentMoniker": "GB1\\Domain\\Enums\\Nivel.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Enums\\Nivel.cs",
+              "RelativeToolTip": "GB1\\Domain\\Enums\\Nivel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:51:03.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "GB1\\Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "GB1\\Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:45:43.896Z"
             }
           ]
         }
