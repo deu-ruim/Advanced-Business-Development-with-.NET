@@ -78,7 +78,7 @@ Exemplo de resultados de teste:
 
 1️⃣ Clone o repositório:
 ```bash
-git clone <link-do-repositório>
+git clone https://github.com/deu-ruim/Advanced-Business-Development-with-.NET.git
 ```
 
 2️⃣ Acesse a pasta do projeto:
@@ -95,7 +95,7 @@ dotnet run
 
 5️⃣ Acesse a documentação Swagger:
 ```
-http://localhost:<porta>/swagger
+http://localhost:5201/swagger/index.html
 ```
 
 ---
