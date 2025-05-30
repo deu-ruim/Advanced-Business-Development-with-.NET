@@ -5,7 +5,7 @@ namespace GB1.Application.DTO.Response
 {
     public class CreateUsuarioResponse
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public string Email { get; set; }
         public string Username { get; set; }
         public string Senha { get; set; }

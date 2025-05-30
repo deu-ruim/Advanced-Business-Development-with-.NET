@@ -7044,11 +7044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\GB1.csproj",
+      "projectUniqueName": "D:\\Advanced-Business-Development-with-.NET\\GB1\\GB1.csproj",
       "projectName": "GB1",
-      "projectPath": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\GB1.csproj",
+      "projectPath": "D:\\Advanced-Business-Development-with-.NET\\GB1\\GB1.csproj",
       "packagesPath": "C:\\Softwares\\Nuget",
-      "outputPath": "D:\\2TDSPM\\Advanced-Business-Development-with-.NET\\GB1\\obj\\",
+      "outputPath": "D:\\Advanced-Business-Development-with-.NET\\GB1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

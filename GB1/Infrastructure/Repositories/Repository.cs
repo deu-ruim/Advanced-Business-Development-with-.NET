@@ -14,7 +14,7 @@ namespace GB1.Infrastructure.Repositories
             _dbSet = _context.Set<T>();
         }
 
-        public async Task<T?> GetByIdAsync(int id)
+        public async Task<T?> GetByIdAsync(long id)
         {
             return await _dbSet.FindAsync(id);
         }
@@ -29,5 +29,7 @@ namespace GB1.Infrastructure.Repositories
         public void Update(T entity) => _dbSet.Update(entity);
 
         public void Delete(T entity) => _dbSet.Remove(entity);
+
+        public async Task SaveChangesAsync() => await _context.SaveChangesAsync();
     }
 }

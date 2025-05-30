@@ -22,17 +22,17 @@ namespace GB1.Migrations
 
             OracleModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.HasSequence<int>("DESASTRE_SEQ")
+            modelBuilder.HasSequence("DESASTRE_SEQ")
                 .StartsAt(10L);
 
-            modelBuilder.HasSequence<int>("USUARIO_SEQ")
+            modelBuilder.HasSequence("USUARIO_SEQ")
                 .StartsAt(10L);
 
             modelBuilder.Entity("GB1.Domain.Entitiy.Desastre", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<long>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("NUMBER(10)")
+                        .HasColumnType("NUMBER(19)")
                         .HasColumnName("ID")
                         .HasDefaultValueSql("DESASTRE_SEQ.NEXTVAL");
 
@@ -46,9 +46,10 @@ namespace GB1.Migrations
                         .HasColumnType("NVARCHAR2(1000)")
                         .HasColumnName("DESCRICAO");
 
-                    b.Property<int>("Severidade")
+                    b.Property<string>("Severidade")
+                        .IsRequired()
                         .HasMaxLength(20)
-                        .HasColumnType("NUMBER(10)")
+                        .HasColumnType("NVARCHAR2(20)")
                         .HasColumnName("SEVERIDADE");
 
                     b.Property<string>("Titulo")
@@ -57,13 +58,14 @@ namespace GB1.Migrations
                         .HasColumnType("NVARCHAR2(100)")
                         .HasColumnName("TITULO");
 
-                    b.Property<int>("Uf")
+                    b.Property<string>("Uf")
+                        .IsRequired()
                         .HasMaxLength(2)
-                        .HasColumnType("NUMBER(10)")
+                        .HasColumnType("NVARCHAR2(2)")
                         .HasColumnName("UF");
 
-                    b.Property<int?>("UsuarioId")
-                        .HasColumnType("NUMBER(10)");
+                    b.Property<long?>("UsuarioId")
+                        .HasColumnType("NUMBER(19)");
 
                     b.HasKey("Id");
 
@@ -74,9 +76,9 @@ namespace GB1.Migrations
 
             modelBuilder.Entity("GB1.Domain.Entitiy.Usuario", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<long>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("NUMBER(10)")
+                        .HasColumnType("NUMBER(19)")
                         .HasColumnName("ID")
                         .HasDefaultValueSql("USUARIO_SEQ.NEXTVAL");
 
@@ -86,9 +88,10 @@ namespace GB1.Migrations
                         .HasColumnType("NVARCHAR2(255)")
                         .HasColumnName("EMAIL");
 
-                    b.Property<int>("Nivel")
+                    b.Property<string>("Nivel")
+                        .IsRequired()
                         .HasMaxLength(20)
-                        .HasColumnType("NUMBER(10)")
+                        .HasColumnType("NVARCHAR2(20)")
                         .HasColumnName("NIVEL");
 
                     b.Property<string>("Senha")
@@ -97,9 +100,10 @@ namespace GB1.Migrations
                         .HasColumnType("NVARCHAR2(255)")
                         .HasColumnName("SENHA");
 
-                    b.Property<int>("Uf")
+                    b.Property<string>("Uf")
+                        .IsRequired()
                         .HasMaxLength(2)
-                        .HasColumnType("NUMBER(10)")
+                        .HasColumnType("NVARCHAR2(2)")
                         .HasColumnName("UF");
 
                     b.Property<string>("Username")

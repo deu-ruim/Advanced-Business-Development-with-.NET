@@ -1,5 +1,7 @@
 ﻿using GB1.Domain.Enums;
 using GB1.Domain.Exceptions;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.IO;
 using System.Text.RegularExpressions;
 
@@ -7,7 +9,9 @@ namespace GB1.Domain.Entitiy
 {
     public class Usuario
     {
-        public int Id { get; private set; } 
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public long Id { get; private set; } 
         public string Username { get; private set; }
         public string Email { get; private set; }
         public string Senha { get; private set; }

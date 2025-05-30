@@ -40,7 +40,7 @@ namespace TDSPM.API.Controllers
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(CreateUsuarioResponse), (int)HttpStatusCode.OK)]
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
-        public async Task<IActionResult> GetUsuario(int id)
+        public async Task<IActionResult> GetUsuario(long id)
         {
             var usuario = await _usuarioUseCase.GetByIdAsync(id);
             if (usuario == null)
@@ -70,7 +70,7 @@ namespace TDSPM.API.Controllers
         [ProducesResponseType((int)HttpStatusCode.NoContent)]
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
         [ProducesResponseType((int)HttpStatusCode.BadRequest)]
-        public async Task<IActionResult> PutUsuario(int id, [FromBody] UpdateUsuarioRequest request)
+        public async Task<IActionResult> PutUsuario(long id, [FromBody] UpdateUsuarioRequest request)
         {
             var updated = await _usuarioUseCase.UpdateUsuarioAsync(id, request);
             if (!updated)
@@ -85,7 +85,7 @@ namespace TDSPM.API.Controllers
         [HttpDelete("{id}")]
         [ProducesResponseType((int)HttpStatusCode.NoContent)]
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
-        public async Task<IActionResult> DeleteUsuario(int id)
+        public async Task<IActionResult> DeleteUsuario(long id)
         {
             var deleted = await _usuarioUseCase.DeleteUsuarioAsync(id);
             if (!deleted)

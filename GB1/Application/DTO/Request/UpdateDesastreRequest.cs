@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace GB1.Application.DTO.Request
 {
-    public class CreateDesastreRequest
+    public class UpdateDesastreRequest
     {
         public string Titulo { get; set; }
         public string Descricao { get; set; }
@@ -13,7 +13,7 @@ namespace GB1.Application.DTO.Request
 
         [EnumDataType(typeof(Uf))]
         public Uf Uf { get; set; }
-
+        
         [EnumDataType(typeof(Severidade))]
         public Severidade Severidade { get; set; }
         public long? UsuarioId { get; set; }

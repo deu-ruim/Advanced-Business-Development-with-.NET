@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GB1</name>
+    </assembly>
+    <members>
+        <member name="P:GB1.Application.DTO.Request.CreateDesastreRequest.DataDesastre">
+            <example>30/05/2025 14:13:27</example>
+        </member>
+        <member name="P:GB1.Application.DTO.Request.UpdateDesastreRequest.DataDesastre">
+            <example>30/05/2025 14:13:27</example>
+        </member>
+        <member name="P:GB1.Application.DTO.Response.CreateDesastreResponse.DataDesastre">
+            <example>30/05/2025 14:13:27</example>
+        </member>
+        <member name="T:GB1.Migrations.DeuRuimMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:GB1.Migrations.DeuRuimMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GB1.Migrations.DeuRuimMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GB1.Migrations.DeuRuimMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TDSPM.API.Controllers.DesastreController.GetDesastre">
+            <summary>
+            Get all Desastres
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.DesastreController.GetDesastre(System.Int64)">
+            <summary>
+            Get desastres por ID
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.DesastreController.PostDesastre(GB1.Application.DTO.Request.CreateDesastreRequest)">
+            <summary>
+            Criar um novo desastres
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.DesastreController.PutUsuario(System.Int64,GB1.Application.DTO.Request.UpdateDesastreRequest)">
+            <summary>
+            Atualiza um desastres existente
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.DesastreController.DeleteDesastre(System.Int64)">
+            <summary>
+            Deleta um desastres
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.UsuarioController.GetUsuarios">
+            <summary>
+            Get all Usuarios
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.UsuarioController.GetUsuario(System.Int64)">
+            <summary>
+            Get usuario por ID
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.UsuarioController.PostUsuario(GB1.Application.DTO.Request.CreateUsuarioRequest)">
+            <summary>
+            Cria um novo Usuario
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.UsuarioController.PutUsuario(System.Int64,GB1.Application.DTO.Request.UpdateUsuarioRequest)">
+            <summary>
+            Atualiza um Usuario existente
+            </summary>
+        </member>
+        <member name="M:TDSPM.API.Controllers.UsuarioController.DeleteUsuario(System.Int64)">
+            <summary>
+            Deleta um Usuario
+            </summary>
+        </member>
+    </members>
+</doc>

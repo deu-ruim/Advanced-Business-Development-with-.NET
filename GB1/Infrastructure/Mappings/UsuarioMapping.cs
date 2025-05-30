@@ -19,6 +19,7 @@ namespace GB1.Infrastructure.Mappings
                 .Property(u => u.Id)
                 .HasColumnName("ID")
                 .HasDefaultValueSql("USUARIO_SEQ.NEXTVAL")
+                .ValueGeneratedOnAdd()
                 .IsRequired();
 
             builder
@@ -42,12 +43,14 @@ namespace GB1.Infrastructure.Mappings
             builder
                 .Property(u => u.Uf)
                 .HasColumnName("UF")
+                .HasConversion<string>()
                 .IsRequired()
                 .HasMaxLength(2);
 
             builder
                 .Property(u => u.Nivel)
                 .HasColumnName("NIVEL")
+                .HasConversion<string>()
                 .IsRequired()
                 .HasMaxLength(20);
         }

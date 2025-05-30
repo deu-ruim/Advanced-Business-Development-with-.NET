@@ -13,8 +13,8 @@ namespace GB1.Infrastructure.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.HasSequence<int>("USUARIO_SEQ").StartsAt(10).IncrementsBy(1);
-            modelBuilder.HasSequence<int>("DESASTRE_SEQ").StartsAt(10).IncrementsBy(1);
+            modelBuilder.HasSequence<long>("USUARIO_SEQ").StartsAt(10).IncrementsBy(1);
+            modelBuilder.HasSequence<long>("DESASTRE_SEQ").StartsAt(10).IncrementsBy(1);
 
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(DeuRuimContext).Assembly);
         }

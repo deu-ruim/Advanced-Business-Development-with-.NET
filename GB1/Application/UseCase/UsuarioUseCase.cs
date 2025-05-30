@@ -1,5 +1,4 @@
-﻿// UsuarioUseCase.cs
-using GB1.Application.DTO.Request;
+﻿using GB1.Application.DTO.Request;
 using GB1.Application.DTO.Response;
 using GB1.Domain.Entitiy;
 using GB1.Infrastructure.Repositories;
@@ -27,11 +26,14 @@ namespace GB1.Application.UseCases
             );
 
             await _repository.AddAsync(usuario);
-            return new CreateUsuarioResponse
+            await _repository.SaveChangesAsync();   
+
+        return new CreateUsuarioResponse
             {
                 Id = usuario.Id,
                 Username = usuario.Username,
                 Email = usuario.Email,
+                Senha = usuario.Senha,
                 Uf = usuario.Uf.ToString(),
                 Nivel = usuario.Nivel.ToString()
             };
@@ -45,12 +47,13 @@ namespace GB1.Application.UseCases
                 Id = u.Id,
                 Username = u.Username,
                 Email = u.Email,
+                Senha = u.Senha,
                 Uf = u.Uf.ToString(),
                 Nivel = u.Nivel.ToString()
             }).ToList();
         }
 
-        public async Task<CreateUsuarioResponse?> GetByIdAsync(int id)
+        public async Task<CreateUsuarioResponse?> GetByIdAsync(long id)
         {
             var usuario = await _repository.GetByIdAsync(id);
             if (usuario == null) return null;
@@ -60,12 +63,13 @@ namespace GB1.Application.UseCases
                 Id = usuario.Id,
                 Username = usuario.Username,
                 Email = usuario.Email,
+                Senha=usuario.Senha,
                 Uf = usuario.Uf.ToString(),
                 Nivel = usuario.Nivel.ToString()
             };
         }
 
-        public async Task<bool> UpdateUsuarioAsync(int id, UpdateUsuarioRequest request)
+        public async Task<bool> UpdateUsuarioAsync(long id, UpdateUsuarioRequest request)
         {
             var usuario = await _repository.GetByIdAsync(id);
             if (usuario == null) return false;
@@ -78,16 +82,18 @@ namespace GB1.Application.UseCases
                 request.Nivel
             );
             _repository.Update(usuario);
+            await _repository.SaveChangesAsync();
             return true;
         }
 
 
-        public async Task<bool> DeleteUsuarioAsync(int id)
+        public async Task<bool> DeleteUsuarioAsync(long id)
         {
             var usuario = await _repository.GetByIdAsync(id);
             if (usuario == null) return false;
 
             _repository.Delete(usuario);
+            await _repository.SaveChangesAsync();
             return true;
         }
     }

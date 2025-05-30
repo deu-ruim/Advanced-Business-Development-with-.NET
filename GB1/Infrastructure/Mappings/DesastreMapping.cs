@@ -19,11 +19,13 @@ namespace GB1.Infrastructure.Mappings
                 .Property(d => d.Id)
                 .HasColumnName("ID")
                 .HasDefaultValueSql("DESASTRE_SEQ.NEXTVAL")
+                .ValueGeneratedOnAdd()
                 .IsRequired();
 
             builder
                 .Property(d => d.Uf)
                 .IsRequired()
+                .HasConversion<string>()
                 .HasColumnName("UF")
                 .HasMaxLength(2);
 
@@ -47,11 +49,13 @@ namespace GB1.Infrastructure.Mappings
             builder
                 .Property(d => d.Severidade)
                 .HasColumnName("SEVERIDADE")
+                .HasConversion<string>()
                 .IsRequired()
                 .HasMaxLength(20);
 
             builder
-                .Property(d => d.UsuarioId);
+                .Property(d => d.UsuarioId)
+                .HasColumnName("USUARIO_ID");
 
             builder
                 .HasOne(d => d.Usuario)
