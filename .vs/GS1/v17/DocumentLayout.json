@@ -110,8 +110,7 @@
               "RelativeToolTip": "GB1\\Domain\\Entitiy\\Desastre.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAswDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:51:55.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:51:55.135Z"
             },
             {
               "$type": "Document",
@@ -123,8 +122,7 @@
               "RelativeToolTip": "GB1\\Application\\DTO\\Request\\CreateDesastreRequest.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAwwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:49:21.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:49:21.628Z"
             },
             {
               "$type": "Document",
@@ -136,8 +134,7 @@
               "RelativeToolTip": "GB1\\Application\\DTO\\Response\\CreateDesastreResponse.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAowAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:52:01.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:52:01.192Z"
             },
             {
               "$type": "Document",
@@ -162,8 +159,7 @@
               "RelativeToolTip": "GB1\\Domain\\Enums\\Severidade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:32:33.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T13:32:33.734Z"
             },
             {
               "$type": "Document",
@@ -175,8 +171,7 @@
               "RelativeToolTip": "GB1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:50:08.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:50:08.528Z"
             },
             {
               "$type": "Document",
@@ -188,8 +183,7 @@
               "RelativeToolTip": "GB1\\Infrastructure\\Context\\DeuRuimContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:50:25.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:50:25.567Z"
             },
             {
               "$type": "Document",
@@ -201,8 +195,7 @@
               "RelativeToolTip": "GB1\\Application\\DTO\\Request\\CreateUsuarioRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:49:22.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:49:22.518Z"
             },
             {
               "$type": "Document",
@@ -214,8 +207,7 @@
               "RelativeToolTip": "GB1\\Application\\UseCase\\DesastreUseCase.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAwwFQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:51:59.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:51:59.881Z"
             },
             {
               "$type": "Document",
@@ -227,8 +219,7 @@
               "RelativeToolTip": "GB1\\Application\\DTO\\Response\\CreateUsuarioResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:49:25.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:49:25.564Z"
             },
             {
               "$type": "Document",
@@ -240,8 +231,7 @@
               "RelativeToolTip": "GB1\\Application\\DTO\\Request\\UpdateUsuarioRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:52:05.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:52:05.937Z"
             },
             {
               "$type": "Document",
@@ -253,8 +243,7 @@
               "RelativeToolTip": "GB1\\Controller\\DesastreController.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAAUwGAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:51:58.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:51:58.095Z"
             },
             {
               "$type": "Document",
@@ -266,8 +255,7 @@
               "RelativeToolTip": "GB1\\Application\\Validators\\CreateDesastreRequestValidator.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:07:35.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T12:07:35.039Z"
             },
             {
               "$type": "Document",
@@ -279,8 +267,7 @@
               "RelativeToolTip": "GB1\\Infrastructure\\Mappings\\UsuarioMapping.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAqwCcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:50:13.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:50:13.124Z"
             },
             {
               "$type": "Document",
@@ -292,8 +279,7 @@
               "RelativeToolTip": "GB1\\Infrastructure\\Mappings\\DesastreMapping.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAqwEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:52:08.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:52:08.817Z"
             },
             {
               "$type": "Document",
@@ -305,8 +291,7 @@
               "RelativeToolTip": "GB1\\Infrastructure\\Repositories\\Repository.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:51:10.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:51:10.568Z"
             },
             {
               "$type": "Document",
@@ -318,8 +303,7 @@
               "RelativeToolTip": "GB1\\Controller\\UsuarioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:49:07.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:49:07.321Z"
             },
             {
               "$type": "Document",
@@ -331,8 +315,7 @@
               "RelativeToolTip": "GB1\\Infrastructure\\Repositories\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:51:05.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:51:05.32Z"
             },
             {
               "$type": "Document",
@@ -344,8 +327,7 @@
               "RelativeToolTip": "GB1\\Domain\\Entitiy\\Usuario.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAIwCQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:49:13.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:49:13.542Z"
             },
             {
               "$type": "Document",
@@ -357,8 +339,7 @@
               "RelativeToolTip": "GB1\\Application\\UseCase\\UsuarioUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:49:58.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:49:58.695Z"
             },
             {
               "$type": "Document",
@@ -370,8 +351,7 @@
               "RelativeToolTip": "GB1\\Application\\Validators\\CreateUsuarioRequestValidator.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:07:36.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T12:07:36.301Z"
             },
             {
               "$type": "Document",
@@ -383,8 +363,7 @@
               "RelativeToolTip": "GB1\\Domain\\Enums\\Nivel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:44:53.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T12:44:53.735Z"
             }
           ]
         }

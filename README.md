@@ -1,0 +1,113 @@
+
+# Advanced Business Development with .NET
+
+## Integrantes
+
+- **Erick Alves**  
+  GitHub: [Erick0105](https://github.com/Erick0105)  
+  RM: 5568682
+
+- **Vicenzo Oliveira**  
+  GitHub: [fFukurou](https://github.com/fFukurou)  
+  RM: 554833
+
+- **Luiz Henrique**  
+  GitHub: [LuizHNR](https://github.com/LuizHNR)  
+  RM: 556864
+
+---
+
+## Descrição do Projeto
+
+Este projeto foi desenvolvido no contexto do curso **Advanced Business Development with .NET**, com foco em soluções avançadas para negócios usando a plataforma .NET.
+
+O projeto aborda:
+- Desenvolvimento backend com .NET
+- Integração com bancos de dados
+- Testes automatizados
+- Documentação clara e visual
+
+---
+
+## Diagramas
+
+Abaixo estão alguns diagramas do projeto, mostrando a arquitetura, fluxo de dados e estrutura das camadas:
+
+![Diagrama 1](imagens/diagrama1.png)  
+![Diagrama 2](imagens/diagrama2.png)  
+![Diagrama 3](imagens/diagrama3.png)
+
+*(Certifique-se de ajustar os nomes reais das imagens conforme estão na pasta imagens)*
+
+---
+
+## Desenvolvimento
+
+O projeto foi desenvolvido com as seguintes tecnologias e frameworks:
+- **.NET 8**
+- **C#**
+- **Entity Framework Core**
+- **SQL Server**
+- **Swagger** (para documentação de APIs)
+- **xUnit** (para testes)
+
+Principais funcionalidades:
+- Sistema de login e autorização JWT
+- Operações CRUD completas
+- Integração com serviços externos via REST APIs
+- Interface web básica para visualização de dados
+
+---
+
+## Parte de Testes
+
+Testes automatizados foram implementados para garantir a qualidade do código e a cobertura das funcionalidades principais.
+
+Foram utilizados:
+- Testes de unidade com **xUnit**
+- Testes de integração
+- Simulações de carga para endpoints críticos
+
+Exemplo de resultados de teste:
+
+![Teste Resultado](imagens/teste_resultado.png)
+
+---
+
+## Instruções para Acesso
+
+1️⃣ Clone o repositório:
+```bash
+git clone <link-do-repositório>
+```
+
+2️⃣ Acesse a pasta do projeto:
+```bash
+cd Advanced-Business-Development-with-.NET
+```
+
+3️⃣ Configure o arquivo `appsettings.json` com as credenciais do seu banco.
+
+4️⃣ Execute a aplicação:
+```bash
+dotnet run
+```
+
+5️⃣ Acesse a documentação Swagger:
+```
+http://localhost:<porta>/swagger
+```
+
+---
+
+## Exemplos de Testes
+
+Execute os testes:
+```bash
+dotnet test
+```
+
+Exemplo de saída esperada:
+```
+Passed!  - Failed: 0, Passed: 25, Skipped: 0, Total: 25
+```
