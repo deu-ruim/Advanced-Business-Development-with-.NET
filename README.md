@@ -17,6 +17,11 @@
 
 ---
 
+## Link do Vídeo Explicativo:
+https://youtu.be/dSaWacopmz0
+
+---
+
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido no contexto do curso **Advanced Business Development with .NET**, com foco em soluções avançadas para negócios usando a plataforma .NET.
