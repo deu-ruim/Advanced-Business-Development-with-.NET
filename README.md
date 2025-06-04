@@ -38,9 +38,7 @@ O projeto aborda:
 
 Abaixo estão alguns diagramas do projeto, mostrando a arquitetura, fluxo de dados e estrutura das camadas:
 
-![Diagrama 1](imagens/diagrama1.png)  
-![Diagrama 2](imagens/diagrama2.png)  
-![Diagrama 3](imagens/diagrama3.png)
+![Modelo Relacional](imagens/Relational_1.png)
 
 *(Certifique-se de ajustar os nomes reais das imagens conforme estão na pasta imagens)*
 
@@ -75,7 +73,7 @@ Foram utilizados:
 
 Exemplo de resultados de teste:
 
-![Teste Resultado](imagens/teste_resultado.png)
+![Teste Resultado](imagens/Cruds.png)
 
 ---
 
