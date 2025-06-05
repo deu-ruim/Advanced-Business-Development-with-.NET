@@ -494,3 +494,5 @@ D:\Advanced-Business-Development-with-.NET\GB1\obj\Debug\net8.0\GB1.xml
 D:\Advanced-Business-Development-with-.NET\GB1\obj\Debug\net8.0\GB1.pdb
 D:\Advanced-Business-Development-with-.NET\GB1\obj\Debug\net8.0\GB1.genruntimeconfig.cache
 D:\Advanced-Business-Development-with-.NET\GB1\obj\Debug\net8.0\ref\GB1.dll
+D:\2TDSPM\Advanced-Business-Development-with-.NET\GB1\bin\Debug\net8.0\GB1.xml
+D:\2TDSPM\Advanced-Business-Development-with-.NET\GB1\obj\Debug\net8.0\GB1.xml
