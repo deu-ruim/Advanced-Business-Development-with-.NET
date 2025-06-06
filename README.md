@@ -1,4 +1,3 @@
-
 # Advanced Business Development with .NET
 
 ## Integrantes
@@ -18,7 +17,12 @@
 ---
 
 ## Link do Vídeo Explicativo:
+
 https://youtu.be/dSaWacopmz0
+
+## Link do Pitch:
+
+https://youtu.be/55PfbdSWxNo
 
 ---
 
@@ -27,6 +31,7 @@ https://youtu.be/dSaWacopmz0
 Este projeto foi desenvolvido no contexto do curso **Advanced Business Development with .NET**, com foco em soluções avançadas para negócios usando a plataforma .NET.
 
 O projeto aborda:
+
 - Desenvolvimento backend com .NET
 - Integração com bancos de dados
 - Testes automatizados
@@ -40,13 +45,14 @@ Abaixo estão alguns diagramas do projeto, mostrando a arquitetura, fluxo de dad
 
 ![Modelo Relacional](imagens/Relational_1.png)
 
-*(Certifique-se de ajustar os nomes reais das imagens conforme estão na pasta imagens)*
+_(Certifique-se de ajustar os nomes reais das imagens conforme estão na pasta imagens)_
 
 ---
 
 ## Desenvolvimento
 
 O projeto foi desenvolvido com as seguintes tecnologias e frameworks:
+
 - **.NET 8**
 - **C#**
 - **Entity Framework Core**
@@ -55,6 +61,7 @@ O projeto foi desenvolvido com as seguintes tecnologias e frameworks:
 - **xUnit** (para testes)
 
 Principais funcionalidades:
+
 - Sistema de login e autorização JWT
 - Operações CRUD completas
 - Integração com serviços externos via REST APIs
@@ -67,6 +74,7 @@ Principais funcionalidades:
 Testes automatizados foram implementados para garantir a qualidade do código e a cobertura das funcionalidades principais.
 
 Foram utilizados:
+
 - Testes de unidade com **xUnit**
 - Testes de integração
 - Simulações de carga para endpoints críticos
@@ -80,11 +88,13 @@ Exemplo de resultados de teste:
 ## Instruções para Acesso
 
 1️⃣ Clone o repositório:
+
 ```bash
 git clone https://github.com/deu-ruim/Advanced-Business-Development-with-.NET.git
 ```
 
 2️⃣ Acesse a pasta do projeto:
+
 ```bash
 cd Advanced-Business-Development-with-.NET
 ```
@@ -92,11 +102,13 @@ cd Advanced-Business-Development-with-.NET
 3️⃣ Configure o arquivo `appsettings.json` com as credenciais do seu banco.
 
 4️⃣ Execute a aplicação:
+
 ```bash
 dotnet run
 ```
 
 5️⃣ Acesse a documentação Swagger:
+
 ```
 http://localhost:5201/swagger/index.html
 ```
@@ -106,11 +118,13 @@ http://localhost:5201/swagger/index.html
 ## Exemplos de Testes
 
 Execute os testes:
+
 ```bash
 dotnet test
 ```
 
 Exemplo de saída esperada:
+
 ```
 Passed!  - Failed: 0, Passed: 25, Skipped: 0, Total: 25
 ```
