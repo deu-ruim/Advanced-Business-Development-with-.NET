@@ -45,7 +45,6 @@ Abaixo estão alguns diagramas do projeto, mostrando a arquitetura, fluxo de dad
 
 ![Modelo Relacional](imagens/Relational_1.png)
 
-_(Certifique-se de ajustar os nomes reais das imagens conforme estão na pasta imagens)_
 
 ---
 
@@ -58,7 +57,6 @@ O projeto foi desenvolvido com as seguintes tecnologias e frameworks:
 - **Entity Framework Core**
 - **SQL Server**
 - **Swagger** (para documentação de APIs)
-- **xUnit** (para testes)
 
 Principais funcionalidades:
 
@@ -70,14 +68,6 @@ Principais funcionalidades:
 ---
 
 ## Parte de Testes
-
-Testes automatizados foram implementados para garantir a qualidade do código e a cobertura das funcionalidades principais.
-
-Foram utilizados:
-
-- Testes de unidade com **xUnit**
-- Testes de integração
-- Simulações de carga para endpoints críticos
 
 Exemplo de resultados de teste:
 
