@@ -55,7 +55,7 @@ O projeto foi desenvolvido com as seguintes tecnologias e frameworks:
 - **.NET 8**
 - **C#**
 - **Entity Framework Core**
-- **SQL Server**
+- **SQL Oracle**
 - **Swagger** (para documentação de APIs)
 
 Principais funcionalidades:
