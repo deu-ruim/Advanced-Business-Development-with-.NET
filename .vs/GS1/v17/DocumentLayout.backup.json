@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspx\\advanced-business-development-with-.net\\gb1\\migrations\\20250530133152_deuruimmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\migrations\\20250530133152_deuruimmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspx\\advanced-business-development-with-.net\\gb1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspx\\advanced-business-development-with-.net\\gb1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspx\\advanced-business-development-with-.net\\gb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\migrations\\deuruimcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspx\\advanced-business-development-with-.net\\gb1\\migrations\\20250530133152_deuruimmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\migrations\\20250530133152_deuruimmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspx\\advanced-business-development-with-.net\\gb1\\infrastructure\\context\\deuruimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\infrastructure\\context\\deuruimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspx\\advanced-business-development-with-.net\\gb1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|solutionrelative:gb1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF1057B5-7574-4907-895F-957803B6E26A}|GB1\\GB1.csproj|d:\\2tdspx\\advanced-business-development-with-.net\\gb1\\application\\dto\\request\\updatedesastrerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,28 +110,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GB1\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GB1\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T23:52:40.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DeuRuimContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Migrations\\DeuRuimContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "GB1\\Migrations\\DeuRuimContextModelSnapshot.cs",
@@ -148,33 +127,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20250530133152_DeuRuimMigration.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Migrations\\20250530133152_DeuRuimMigration.cs",
               "RelativeDocumentMoniker": "GB1\\Migrations\\20250530133152_DeuRuimMigration.cs",
               "ToolTip": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Migrations\\20250530133152_DeuRuimMigration.cs",
               "RelativeToolTip": "GB1\\Migrations\\20250530133152_DeuRuimMigration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T23:51:43.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\appsettings.json",
               "RelativeDocumentMoniker": "GB1\\appsettings.json",
               "ToolTip": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\appsettings.json",
               "RelativeToolTip": "GB1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-05T11:19:13.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T11:19:13.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UpdateDesastreRequest.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\UpdateDesastreRequest.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Request\\UpdateDesastreRequest.cs",
@@ -186,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Severidade.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Enums\\Severidade.cs",
               "RelativeDocumentMoniker": "GB1\\Domain\\Enums\\Severidade.cs",
@@ -198,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Program.cs",
               "RelativeDocumentMoniker": "GB1\\Program.cs",
@@ -211,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DeuRuimContext.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Context\\DeuRuimContext.cs",
               "RelativeDocumentMoniker": "GB1\\Infrastructure\\Context\\DeuRuimContext.cs",
@@ -224,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "CreateDesastreResponse.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Response\\CreateDesastreResponse.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Response\\CreateDesastreResponse.cs",
@@ -236,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "CreateDesastreRequest.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\CreateDesastreRequest.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Request\\CreateDesastreRequest.cs",
@@ -248,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Desastre.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Entitiy\\Desastre.cs",
               "RelativeDocumentMoniker": "GB1\\Domain\\Entitiy\\Desastre.cs",
@@ -260,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "CreateUsuarioRequest.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\CreateUsuarioRequest.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Request\\CreateUsuarioRequest.cs",
@@ -272,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "DesastreUseCase.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\UseCase\\DesastreUseCase.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\UseCase\\DesastreUseCase.cs",
@@ -284,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "CreateUsuarioResponse.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Response\\CreateUsuarioResponse.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Response\\CreateUsuarioResponse.cs",
@@ -296,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "UpdateUsuarioRequest.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\DTO\\Request\\UpdateUsuarioRequest.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\DTO\\Request\\UpdateUsuarioRequest.cs",
@@ -308,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "DesastreController.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Controller\\DesastreController.cs",
               "RelativeDocumentMoniker": "GB1\\Controller\\DesastreController.cs",
@@ -320,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "CreateDesastreRequestValidator.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\Validators\\CreateDesastreRequestValidator.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\Validators\\CreateDesastreRequestValidator.cs",
@@ -332,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "UsuarioMapping.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Mappings\\UsuarioMapping.cs",
               "RelativeDocumentMoniker": "GB1\\Infrastructure\\Mappings\\UsuarioMapping.cs",
@@ -344,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "DesastreMapping.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Mappings\\DesastreMapping.cs",
               "RelativeDocumentMoniker": "GB1\\Infrastructure\\Mappings\\DesastreMapping.cs",
@@ -356,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "GB1\\Infrastructure\\Repositories\\Repository.cs",
@@ -368,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Controller\\UsuarioController.cs",
               "RelativeDocumentMoniker": "GB1\\Controller\\UsuarioController.cs",
@@ -380,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Infrastructure\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "GB1\\Infrastructure\\Repositories\\IRepository.cs",
@@ -392,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Entitiy\\Usuario.cs",
               "RelativeDocumentMoniker": "GB1\\Domain\\Entitiy\\Usuario.cs",
@@ -404,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "UsuarioUseCase.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\UseCase\\UsuarioUseCase.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\UseCase\\UsuarioUseCase.cs",
@@ -416,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "CreateUsuarioRequestValidator.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Application\\Validators\\CreateUsuarioRequestValidator.cs",
               "RelativeDocumentMoniker": "GB1\\Application\\Validators\\CreateUsuarioRequestValidator.cs",
@@ -428,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "Nivel.cs",
               "DocumentMoniker": "D:\\2TDSPX\\Advanced-Business-Development-with-.NET\\GB1\\Domain\\Enums\\Nivel.cs",
               "RelativeDocumentMoniker": "GB1\\Domain\\Enums\\Nivel.cs",
@@ -437,6 +415,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T12:44:53.735Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
